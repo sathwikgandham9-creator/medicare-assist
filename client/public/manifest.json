@@ -1,0 +1,19 @@
+{
+  "short_name": "MediCare",
+  "name": "MediCare Assist - Medicine Reminder",
+  "icons": [
+    {
+      "src": "/pill-logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#1d4ed8",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "description": "Adaptive medicine reminder and adherence monitoring for elderly and caregivers"
+}
+
